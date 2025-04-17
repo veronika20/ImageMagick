@@ -9,3 +9,5 @@
 2025-01-06 18:25:00 | INFO | repo=ImageMagick | action=pull
 2025-04-20 16:43:00 | INFO | repo=ImageMagick | action=edit | files=3
 2025-11-16 19:31:00 | WARN | repo=ImageMagick | action=commit
+2025-12-16 19:39:00 | DEBUG | repo=ImageMagick | action=edit | files=1
+2025-04-17 16:13:00 | DEBUG | repo=ImageMagick | action=commit
